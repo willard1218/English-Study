@@ -90,4 +90,24 @@ S+linking verb+C => S = C
 a jar of honey -> 給的東西
 
 都是名詞，但是不相等，要跟 S+V+O+C 分清楚！
- 
+##名詞片語
+名詞片語可以是句子中的 主詞、受詞、補語、介系詞後面接的受詞
+
+由三個部分組成：限定詞 + 形容詞 + 名詞，這三個部分當中每一個部分 都有可能省略。
+
+###例子
+|限定詞|形容詞|名詞||
+|---|---|---|---|
+| a | good | teacher | 一位好老師 |
+| some | troublesome | students | 幾個問題學生 |
+| their | very pretty | garden | 他們那座非常漂亮的花園 |
+| that | rather old | jacket | 那件蠻舊的外套 |
+| the | smartest | kid | 最聰明的小孩 |
+
+####省略
+
+1. a good teacher -> a teacher 
+2. the smartest kid -> the smartest
+
+1. 拿掉形容詞，正確。
+2. 拿掉最重要的名詞，因為能從上下文推斷，正確。   
